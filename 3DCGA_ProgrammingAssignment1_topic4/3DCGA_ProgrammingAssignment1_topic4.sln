@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3DCGA_ProgrammingAssignment1_topic4", "3DCGA_ProgrammingAssignment1_topic4\3DCGA_ProgrammingAssignment1_topic4.vbproj", "{F18374F9-CB0C-4DBE-B319-29160C830FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18374F9-CB0C-4DBE-B319-29160C830FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18374F9-CB0C-4DBE-B319-29160C830FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18374F9-CB0C-4DBE-B319-29160C830FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18374F9-CB0C-4DBE-B319-29160C830FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E7B14B-799D-4705-BD77-E6D4980C2637}
+	EndGlobalSection
+EndGlobal
